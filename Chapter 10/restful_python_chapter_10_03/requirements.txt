@@ -1,0 +1,5 @@
+cov-core==1.15.0
+coverage==4.2
+nose2==0.6.5
+six==1.10.0
+tornado==4.4.1
