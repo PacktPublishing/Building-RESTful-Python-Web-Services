@@ -39,7 +39,7 @@ print(rendered_game1)
 print(rendered_game2)
 
 json_string_for_new_game = '{"name":"Tomb Raider Extreme Edition","release_date":"2016-05-18T03:02:00.776594Z","game_category":"3D RPG","played":false}'
-json_bytes_for_new_game = bytes(json_string_for_new_game json_game_string  , encoding="UTF-8")
+json_bytes_for_new_game = bytes(json_string_for_new_game, encoding="UTF-8")
 stream_for_new_game = BytesIO(json_bytes_for_new_game)
 parser = JSONParser()
 parsed_new_game = parser.parse(stream_for_new_game)
