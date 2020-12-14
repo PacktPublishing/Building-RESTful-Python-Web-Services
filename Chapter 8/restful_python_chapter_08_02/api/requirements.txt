@@ -3,7 +3,7 @@ aniso8601==1.1.0
 click==6.6
 cov-core==1.15.0
 coverage==4.2
-Flask==0.11.1
+Flask==1.0
 Flask-HTTPAuth==3.2.1
 flask-marshmallow==0.7.0
 Flask-Migrate==2.0.0
