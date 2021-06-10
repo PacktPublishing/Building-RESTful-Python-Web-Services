@@ -1,5 +1,5 @@
 coverage==4.2
-Django==1.10.1
+Django==2.2.24
 django-crispy-forms==1.6.0
 django-filter==0.15.0
 django-nose==1.4.4
