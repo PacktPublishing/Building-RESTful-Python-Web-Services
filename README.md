@@ -25,3 +25,7 @@ You will need Python 3.5 or greater installed on your computer.
 * [Python Programming Blueprints](https://www.packtpub.com/application-development/python-programming-blueprints?utm_source=github&utm_medium=repository&utm_campaign=9781786468161)
 
 * [Modular Programming with Python](https://www.packtpub.com/application-development/modular-programming-python?utm_source=github&utm_medium=repository&utm_campaign=9781785884481)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to download a free PDF copy of this book.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781786462251">https://packt.link/free-ebook/9781786462251 </a> </p>
